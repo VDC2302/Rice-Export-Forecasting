@@ -26,5 +26,5 @@ Requirement libraries:
 
 Project Performance
 The model shows a very strong correlation between actual and predicted export volumes, capturing the downward trend across the final quarter of 2022.
-![alt text](image.png)
+![alt text](images/result_plot.png)
 This chart demonstrates the LSTM model's ability to generalize and predict seasonal shifts with high accuracy.
